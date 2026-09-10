@@ -15,3 +15,5 @@ This is a shoe box display. I like displaying my shoes in my room. You can also 
 
 ![](images/suggestionbox1.jpeg)
 This is a suggestion/donation box made out of cardboard. You can put money in there for donations, or put little notes for suggestions or anything else. 
+
+Thanks for looking at my first project
